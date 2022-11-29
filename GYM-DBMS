@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T06:28:16.675Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="nttWrydK8etstpTdTff_" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T06:34:31.789Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="GVhWFCYzHNrGS5M6uSFH" version="20.6.0" type="github">
   <diagram id="AH6UIemcH54ffWACHrgB" name="Page-1">
     <mxGraphModel dx="914" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -583,11 +583,8 @@
         <mxCell id="ILvmIm2mOcAZ1GnrpopV-344" value="logs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="229" y="1049" width="40" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ILvmIm2mOcAZ1GnrpopV-352" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="229" y="1075" width="373" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="ILvmIm2mOcAZ1GnrpopV-338" value="city" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="ILvmIm2mOcAZ1GnrpopV-352">
-          <mxGeometry width="280" height="32" as="geometry" />
+        <mxCell id="ILvmIm2mOcAZ1GnrpopV-338" value="city" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="229" y="1075" width="280" height="32" as="geometry" />
         </mxCell>
         <mxCell id="ILvmIm2mOcAZ1GnrpopV-339" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="ILvmIm2mOcAZ1GnrpopV-338">
           <mxGeometry width="280" height="32" as="geometry" />
@@ -607,8 +604,8 @@
             <mxRectangle width="93" height="32" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ILvmIm2mOcAZ1GnrpopV-343" value="date" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="ILvmIm2mOcAZ1GnrpopV-352">
-          <mxGeometry x="280" width="93" height="32" as="geometry">
+        <mxCell id="ILvmIm2mOcAZ1GnrpopV-343" value="date" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;border:solid;" vertex="1" parent="1">
+          <mxGeometry x="509" y="1075" width="93" height="32" as="geometry">
             <mxRectangle width="93" height="32" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
